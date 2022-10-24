@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
 - Solution URL: [Source Code](https://github.com/kephchunga/product-preview-card-component.git)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [https://kentsproductcard.netlify.app/](https://your-live-site-url.com)
 
 ## My process
 
@@ -45,4 +45,4 @@ Users should be able to:
 
 ## Author
 - Frontend Mentor - [@KentCP](https://www.frontendmentor.io/profile/KentCP)
-- Twitter - [@KentChunga](https://www.twitter.com/yourusername)
+- Twitter - [@KentChunga](https://www.twitter.com/KentChunga)
